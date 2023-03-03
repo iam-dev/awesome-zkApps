@@ -12,13 +12,17 @@
   <p align="center">Please check the <a href="CONTRIBUTING.md">contribution guidelines</a> for information on formatting and writing pull requests.</p>
 
 # Official
-* [zkApps docs](https://docs.minaprotocol.com/zkapps)
-* [zkIgnite](https://zkignite.minaprotocol.com/zkignite/zkignite-overview)
+* [zkApps docs](https://docs.minaprotocol.com/zkapps) - zkApps Official documentation
+* [zkIgnite](https://zkignite.minaprotocol.com/zkignite/zkignite-overview) - A Mina Protocol’s innovation grant program
 
 
 ## zkIgnite Cohort 1 zkApp Proposals
 * [zkApp Keyless Wallet](https://zkignite.minaprotocol.com/zkignite/zkapp-track-1/draftproposals/suggestion/236) - The smart contract wallet that offers effortless security for your cryptocurrency using Social Recovery and Smart OTP's
 
-## zkApps 
-* [Minanite](https://github.com/sausage-dog/minanite) - Anonymous and Trustless Voting by Karol Podufalski and Wincenty Dulkowski
-* [Minado](https://github.com/Sr-santi/mina-ui) - A mixer based privacy zkApp for Mina Protocol based on similar principles used by Tornado Cash.
+## zkApps  previous Cohorts / zkApps Builders Program
+* [Anonymous and Trustless Voting](https://github.com/sausage-dog/minanite) - A fair and anonymous tool for people to use for private voting, more specifically voting on issues within an organization by Karol Podufalski and Wincenty Dulkowski.
+* [Dark Chess](https://github.com/iammadab/dark-chess) - A variant of chess in which players can only see their own pieces and the squares that they can legally move by Wisdom Ogwu.
+* [zkApp Data Types](https://github.com/gretzke/zkApp-data-types) - Dynamic Arrays and JSON parsing in SnarkyJS by Daniel Gretzke.
+* [Frequent Batch Auction](https://github.com/adrian-gierakowski/fba-on-mina) - Prototype of a DEX using Frequent Batch Auction mechanism for settling trades by Adrian Gierakowski.
+* [mCash](https://github.com/chainwayxyz/mCash) -A mixer, which allows you to transfer your funds from one account to another account without traceability by Esad Yusuf Atik, Ekrem Bal, and Orkun Mahir Kılıç.
+* [Minado](https://github.com/Sr-santi/mina-ui) - A mixer based privacy zkApp for Mina Protocol based on similar principles used by Tornado Cash by Nicolas Diaz, Juan Pablo Garzon, and Santiago Rios.
