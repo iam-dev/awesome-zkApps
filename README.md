@@ -17,7 +17,11 @@
 
 
 ## zkIgnite Cohort 1 zkApp Proposals
-* [zkApp Keyless Wallet](https://zkignite.minaprotocol.com/zkignite/zkapp-track-1/draftproposals/suggestion/236) - The smart contract wallet that offers effortless security for your cryptocurrency using Social Recovery and Smart OTP's
+* [zkApp Keyless Wallet](https://zkignite.minaprotocol.com/zkignite/zkapp-track-1/draftproposals/suggestion/236) - The smart contract wallet that offers effortless security for your cryptocurrency using Social Recovery and Smart OTP's by Simplicy.
+
+## zkIgnite Cohort 1 dev4dev Proposals
+* [Semaphore SDK](https://zkignite.minaprotocol.com/zkignite/dev4dev-track-1/phase1-draftproposals/suggestion/257) - With Semaphore's zero-knowledge technology, you can prove your group membership and send signals without compromising your identity by IaM <DEV>.
+* [zkDatabase](https://zkignite.minaprotocol.com/zkignite/dev4dev-track-1/phase1-draftproposals/suggestion/240) - a distributed off-chain database with ZK prover by Orochi Network.
 
 ## zkApps  previous Cohorts / zkApps Builders Program
 * [Anonymous and Trustless Voting](https://github.com/sausage-dog/minanite) - A fair and anonymous tool for people to use for private voting, more specifically voting on issues within an organization by Karol Podufalski and Wincenty Dulkowski.
